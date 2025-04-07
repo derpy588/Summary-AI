@@ -9,6 +9,8 @@ Like my physics engine I plan to finish this project by the end of the semester.
 
 **Update(March 22, 2025):** As mentioned in the last update I have the code finished however, training is not feasable right now with what I have so I will upload the code and highlight the data I would have used if somebody with the ability or resources wants to. I have also realized that I need to work on my fundamental programming skills and knowledge. As I move into my next stage of life, college, I plan to start bulding my programming skills from the ground up again and focusing my efforts more strategically into computer science. My next projects will involve learning about low level programming which includes assembly and C. Not only this but I wish to learn more about linux and switch to a linux based desktop which I blieve will be Arch Linux or something similar.
 
+**Update(April 7, 2025):** I have uploaded the new and improved code to this github. The old code still exists in src directory but if you want to find the code for the new version it is in the v2 directory. I have included a 2nd readme file with it that had info about everything there. This will most likely be the last update for this repo (unless i decide to actually take time and money to train the model)
+
 ## About
 
 I plan to develop an AI capable of processing PDF or text files and creating a summary of the document. The summaries will preserve the core information and context. The AI should be able to summarize large and complex documents. The AI will then output a piece of text that can be put into a .txt, .pdf file or raw text.
